@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Your ip",
-    "port": your port,
+    "port": 1111,
     "version": "",
     "try-creative": false
   },
