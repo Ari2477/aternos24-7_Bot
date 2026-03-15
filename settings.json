@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Your ip",
-    "port": 1111,
+    "ip": "TheHollyhorn.aternos.me",
+    "port": 52636,
     "version": "",
     "try-creative": false
   },
